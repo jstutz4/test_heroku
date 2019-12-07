@@ -1,0 +1,24 @@
+{
+  "name": "test_heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstutz4/test_heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstutz4/test_heroku/issues"
+  },
+  "homepage": "https://github.com/jstutz4/test_heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "path": "^0.12.7"
+  }
+}
